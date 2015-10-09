@@ -1,9 +1,9 @@
-var Parser = require('../bin/parser.js');
 var assert = require("assert"); // node.js core module
 var _ = require('lodash');
 var path = require('path');
 var fs = require('fs');
 var lib = path.join(path.dirname(fs.realpathSync(__filename)), '../lib/templates/default');
+var Parser = require('../lib/parser.js');
 var jsonlib = require(lib+'/json/default.js');
 
 var validEltname        = 'box()';
