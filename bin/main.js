@@ -2,8 +2,8 @@
 console.time('Diagram generated in');
 var fs = require('fs');
 var program = require('commander');
-var Parser = require('./parser.js');
-var Interpreter = require('./interpreter.js');
+var Parser = require('../lib/parser.js');
+var Interpreter = require('../lib/interpreter.js');
 var packagejson = require('../package.json');
 
 program
