@@ -1,7 +1,7 @@
 daac - Diagram as a Code
 =======================
 
-**Development in progress ;)**
+**Development in progress ;)** [![Build Status](https://travis-ci.org/rdroro/daac.svg)](https://travis-ci.org/rdroro/daac)
 
 daac - Diagram as a Code is a markdown language to easily describe the diagrams (interactions, dependences, workflows) in your code documentation, on wiki pages or just to share diagrams with others people. Do not use specific software to share diagram with people, use daac and discover a new approach: The DaaC (Diagram as a Code) ;)
 
